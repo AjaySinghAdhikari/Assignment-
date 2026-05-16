@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "db_connector_py",
+      "label": "db_connector.py",
+      "file_type": "code",
+      "source_file": "db_connector.py",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [
+    {
+      "source": "db_connector_py",
+      "target": "plotly_graph_objects",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db_connector.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "db_connector_py",
+      "target": "seaborn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db_connector.py",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "db_connector_py",
+      "target": "plotly_express",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db_connector.py",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "db_connector_py",
+      "target": "plotly_figure_factory",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db_connector.py",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "db_connector_py",
+      "target": "pandas",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "db_connector.py",
+      "source_location": "L18",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

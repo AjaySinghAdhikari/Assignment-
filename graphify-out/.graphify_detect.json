@@ -1,0 +1,21 @@
+{
+  "files": {
+    "code": [
+      "C:\\Users\\ajays\\Github repos\\Assignment-.worktrees\\copilot-graphify-feature-implementation\\06_Advanced_Python\\db_connector.py"
+    ],
+    "document": [
+      "C:\\Users\\ajays\\Github repos\\Assignment-.worktrees\\copilot-graphify-feature-implementation\\README.md",
+      "C:\\Users\\ajays\\Github repos\\Assignment-.worktrees\\copilot-graphify-feature-implementation\\requirement.txt",
+      "C:\\Users\\ajays\\Github repos\\Assignment-.worktrees\\copilot-graphify-feature-implementation\\requirements.txt"
+    ],
+    "paper": [],
+    "image": [],
+    "video": []
+  },
+  "total_files": 4,
+  "total_words": 245,
+  "needs_graph": false,
+  "warning": "Corpus is ~245 words - fits in a single context window. You may not need a graph.",
+  "skipped_sensitive": [],
+  "graphifyignore_patterns": 0
+}
