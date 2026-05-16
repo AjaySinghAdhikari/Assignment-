@@ -14,7 +14,7 @@ OOP, data libraries, and machine learning concepts.
 ## 🛠️ Requirements
 - Python 3.x
 - Jupyter Notebook
-- Libraries: numpy, pandas, matplotlib, seaborn, sklearn, mysql-connector-python
+
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone <repo-url>`
